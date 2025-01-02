@@ -1,0 +1,1 @@
+# A-QR-Code-card-with-basic-HTML-and-CSS-knowledge-
